@@ -1,0 +1,28 @@
+{
+  "produit": [
+    {
+      "id": 1,
+      "Nom": "telephone",
+      "Prix_Unitaire": "100",
+      "Quantite": "10"
+    },
+    {
+      "id": 2,
+      "Nom": "Montre",
+      "Prix_Unitaire": "50",
+      "Quantite": "100"
+    },
+    {
+      "id": 3,
+      "Nom": "pc",
+      "Prix_Unitaire": "350",
+      "Quantite": "38"
+    },
+    {
+      "Nom": "chaussure",
+      "Prix_Unitaire": "30",
+      "Quantite": "100",
+      "id": 4
+    }
+  ]
+}
